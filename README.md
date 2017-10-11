@@ -1,2 +1,2 @@
-# Clean-up-world-gym
-OpenAI gym style Clean up world environment for studying Hierarchical RL methods.
+# CleanUpWorld
+Test bed for testing option framework related research
