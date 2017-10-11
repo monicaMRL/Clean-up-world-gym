@@ -6,4 +6,4 @@ Test bed for testing option framework related research
 
 Final aim of the project for to reach room to the right most of enviroment from any room using options.
 
-Final file for the above implementations is use_svi.py which used synchronous value iteration over options to achive goal.
+Final file for the above implementations is use_sviVI.py which used synchronous value iteration over options to achive goal.
